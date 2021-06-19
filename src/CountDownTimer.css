@@ -1,0 +1,15 @@
+.block {
+  display: block;
+  width: 100%;
+  border: #000000;
+  border-style: solid;
+  background-color: #04AA6D;
+  padding: 14px 28px;
+  font-size: 70px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.inner-div{
+	font-size: 75px;
+}
