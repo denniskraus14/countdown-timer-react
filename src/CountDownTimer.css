@@ -4,12 +4,22 @@
   border: #000000;
   border-style: solid;
   background-color: #04AA6D;
-  padding: 14px 28px;
-  font-size: 70px;
+  padding: 14px 14px;
+  font-size: 30px;
   cursor: pointer;
   text-align: center;
 }
 
 .inner-div{
-	font-size: 75px;
+	font-size: 50px;
+}
+
+
+.smaller-div{
+	font-size: 25px;
+}
+
+.foot{
+  font-size: 15px;
+  
 }
